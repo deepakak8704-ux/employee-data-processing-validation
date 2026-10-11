@@ -1,0 +1,9 @@
+Employee_ID,Name,Department,Salary,Email
+101, Rahul , IT ,45000, rahul@gmail.com
+102,Anita, HR,38000,anita@gmail.com
+103,John,Finance,52000,john@gmail.com
+101,David,Sales,40000,david@gmail.com
+104,,IT,48000,deepak@gmail.com
+105,Priya,Sales,-5000,priya@gmail.com
+106,Ravi,IT,55000,ravigmail.com
+107,Arjun,IT,abc,arjun@gmail.com
